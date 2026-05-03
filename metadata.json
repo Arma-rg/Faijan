@@ -1,0 +1,6 @@
+{
+  "name": "ZOYA AI",
+  "description": "A sassy, witty, and flirty Hindi-speaking voice assistant for Mohammed Faijan, powered by Gemini Live API.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["voice_assistant", "hindi_language", "real_time_audio"]
+}
